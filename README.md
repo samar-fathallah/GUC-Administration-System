@@ -1,0 +1,2 @@
+# GUC-Administration-System
+It was focused on designing an enhanced version of the current GUC system augmented by a new subsystem which consisted of Requirements &amp; System Design gathering user-requirements, and their corresponding system requirements, covering all stakeholders of the system: (User Stories, Class Diagrams, Sequence Diagrams) and a UX Design (UX mockups using Figma application) &amp; a full Product Plan with principles of Agile (SCRUM) including an API design, a product backlog and a full sprint backlog .
